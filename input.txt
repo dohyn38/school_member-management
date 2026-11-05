@@ -1,0 +1,13 @@
+School:
+01P,Jeonbuk National University,1947
+
+Professors:
+01P,Jung,Full,16S,19S
+02P,Lee,Full,13S
+09P,Hong,Associate
+
+Students:
+U,13S,Choi,3.0,2
+U,16S,Oh,2.1,4
+G,19S,Kang,3.7,Ph.D
+A,20S,Ko,1.2,2007
